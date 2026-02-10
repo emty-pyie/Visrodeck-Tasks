@@ -1,0 +1,8 @@
+{
+  "name": "visrodeck-tasks",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "mkdir -p dist && cp index.html dist/",
+    "dev": "echo 'Python project' && exit 0"
+  }
+}
