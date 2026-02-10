@@ -3,6 +3,10 @@ VISRODECK Tasks is a modern desktop task management software built with Python a
 
 FOR SUGGESTIONS MAIL TO
 workforemty@gmail.com
+
+
+
+
 Features
 
 Add and delete tasks
